@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Mango #1
+* source:	https://sketchfab.com/3d-models/small-mango-1-74a47f3f0dda4a32a529934b20a02554
+* author:	mjkzz (https://sketchfab.com/mjkzz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Mango #1" (https://sketchfab.com/3d-models/small-mango-1-74a47f3f0dda4a32a529934b20a02554) by mjkzz (https://sketchfab.com/mjkzz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
